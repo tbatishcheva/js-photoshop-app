@@ -1,0 +1,26 @@
+.app {
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.leftSide {
+    display: flex;
+    flex-direction: column;
+}
+
+.sliders {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button {
+    color: whitesmoke;
+    font-size: 20px;
+    background-color: dimgray;
+    margin-top: 100px;
+    border: black solid 3px;
+    padding: 10px 30px;
+}
